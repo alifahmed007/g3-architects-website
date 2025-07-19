@@ -173,6 +173,10 @@ main > section{
         max-width: 540px;
         margin:50px auto;
         text-align: center;
+        font-size: 1.35rem;
+    }
+    .sponsor-title{
+     font-size: 3rem;
     }
     .sponsor-company{
         display: grid;
@@ -183,6 +187,15 @@ main > section{
     filter: grayscale(100%);
    }
 
+   .footer{
+    margin-top: 80px;
+    margin-left: 240px; ;
+     background-color:#FFF4E7 ;
+     width: 1440px;
+    height: 50px;
+    text-align: center;
+    padding: 25px 20px;
+   }
 
 /* responsive meadia queary */
 
